@@ -1,4 +1,4 @@
-# Music-bot
+# Musical Bot by Abstrackt
 
 A complete code to download for a music bot 🎧
 
